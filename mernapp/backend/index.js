@@ -10,7 +10,7 @@ const app = express();
 const port = 3001;
 
 // MongoDB URI from environment variables or directly
-const uri = process.env.MONGODB_URI || 'mongodb+srv://danielkshitij:Esther%402007@cluster0.paytpud.mongodb.net/FlavorFleet?retryWrites=true&w=majority&appName=Cluster0';
+const uri = process.env.MONGODB_URI || 'mongodb+srv://danielkshitij:******cluster0.paytpud.mongodb.net/FlavorFleet?retryWrites=true&w=majority&appName=Cluster0';
 
 // Middleware to handle CORS
 app.use(cors({
