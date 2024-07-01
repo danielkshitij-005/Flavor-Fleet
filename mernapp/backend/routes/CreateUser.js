@@ -4,7 +4,7 @@ const User = require('../models/User');
 const { body, validationResult } = require('express-validator');
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
-const jwtSecret = "MyNameIsDanielKshitijKumar";
+const jwtSecret = "************";
 //this is new
 const Order = require('../models/Orders');
 
