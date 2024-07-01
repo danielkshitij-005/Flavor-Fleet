@@ -1,0 +1,1 @@
+<img width="1440" alt="Screenshot 2024-06-21 at 4 05 07 PM" src="https://github.com/danielkshitij-005/Flavor-Fleet/assets/172040946/24d1115e-b855-476c-9638-fff3747cfbc5">This is my first MERN project, it is a food ordering website.
