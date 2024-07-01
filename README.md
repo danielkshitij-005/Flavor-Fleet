@@ -17,3 +17,7 @@ Here is some sneek peek of the webite...
 
 >Categories
 <img width="1440" alt="Screenshot 2024-07-02 at 12 39 58 AM" src="https://github.com/danielkshitij-005/Flavor-Fleet/assets/172040946/bae25538-a8e5-4cc3-b851-70311fd0ef82">
+
+>Footer
+<img width="1440" alt="Screenshot 2024-07-02 at 12 49 44 AM" src="https://github.com/danielkshitij-005/Flavor-Fleet/assets/172040946/87fa0d8c-9235-4881-a5c8-7d2bf9daab00">
+
